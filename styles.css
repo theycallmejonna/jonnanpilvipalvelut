@@ -1,3 +1,17 @@
+body {
+    background-color: #d2e2f2;
+    font-family: Roboto, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* Viikko 1 -sivun takaisin-nappi */
 .back-button {
     display: inline-block;
