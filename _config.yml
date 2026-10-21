@@ -1,6 +1,5 @@
 title: Jonnan pilvipalvelut
-tagline: Pilvipalvelut web-kehityksessä
-description: Kurssin tehtäväpalautukset
-remote_theme: pages-themes/midnight@v0.2.0
+description: Pilvipalvelut web-kehityksessä – kurssin tehtäväpalautukset
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
