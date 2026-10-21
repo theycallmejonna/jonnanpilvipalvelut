@@ -8,23 +8,28 @@ h1 {
     text-align: center;
 }
 
-.container {
+p.container {
     max-width: 960px;
     margin: 0 auto;
     text-align: center;
 }
 
-/* Viikko 1 -sivun takaisin-nappi */
+/* Takaisin etusivulle -painike */
 .back-button {
     display: inline-block;
-    background-color: #6b4c7a;
+    background-color: #6B4C7A;
     color: white;
     text-decoration: none;
     padding: 10px 18px;
-    border-radius: 6px;
+    border-radius: 20px;
     font-weight: bold;
 }
 
 .back-button:hover {
-    background-color: #4b3159;
+    background-color: #4B3159;
+}
+
+/* Keskittää takaisin-napin */
+body > p {
+    text-align: center;
 }
