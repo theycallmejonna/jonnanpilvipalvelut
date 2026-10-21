@@ -8,10 +8,10 @@ h1 {
 }
 
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    max-width: 960px;
+    margin: 0 auto;
 }
+
 /* Viikko 1 -sivun takaisin-nappi */
 .back-button {
     display: inline-block;
