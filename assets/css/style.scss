@@ -1,1 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #6B4C7A;
+}
+
+a:hover,
+a:focus {
+  color: #4B3159;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #6B4C7A;
+}
 
