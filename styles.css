@@ -11,9 +11,3 @@ h1 {
     max-width: 960px;
     margin: 0 auto;
 }
- 
-Tallenna CSS-tiedosto
-Tee muutos HTML-sivulle, jotta määrittämäsi tyylitiedosto tulee käyttöön
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
