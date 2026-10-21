@@ -26,3 +26,13 @@ h1 {
 .back-button:hover {
     background-color: #555;
 }
+
+/* Tekstien keskitys */
+body {
+    text-align: center;
+}
+
+.container {
+    display: block;
+    text-align: center;
+}
